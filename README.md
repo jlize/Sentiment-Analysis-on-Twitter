@@ -32,7 +32,7 @@ Then a piechart will summarize and show the result.
 ## Result 
 
 Here is one possible result. 
-![alt text](https://github.com/jlize/Sentiment-Analysis-on-Twitter/edit/master/images/piechart.png "Results")
+![alt text](https://github.com/jlize/Sentiment-Analysis-on-Twitter/edit/master/images/Piechart.png "Results")
 
 
 
