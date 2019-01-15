@@ -1,0 +1,103 @@
+tweet,sentiment polarity,sentiment subjectivity,analysis
+b'RT @jipoulou59: Tant que Macron sera au pouvoir le Grand d\xc3\xa9bat sur l\xe2\x80\x99immigration attendu par les Fran\xc3\xa7ais n\xe2\x80\x99aura pas lieu https://t.co/GVjD\xe2\x80\xa6',0.5,1.0,positive
+"b""RT @FrancisLagneau_: #GiletsJaunes #Acte9 : La presse britannique s'inqui\xc3\xa8te de voir des armes semi-automatiques entre les mains des forces\xe2\x80\xa6""",0.0,0.0,neutral
+"b'RT @lazgougeon: En moins de 2 ans le bilan #Macron est une catastrophe. Tous les fondamentaux sont au rouge : chomage, dette, d\xc3\xa9penses publ\xe2\x80\xa6'",0.0,0.0,neutral
+b'@lesRepublicains Vous n\xe2\x80\x99 y ferez rien: Mr Macron adore l\xe2\x80\x99immigration.ALORS!',0.0,0.0,neutral
+b'French Riot Police Deploy Semi-Automatic Weapons Against Yellow Vests As Macron Loses Grip On\xc2\xa0Country\xe2\x80\xa6 https://t.co/k3eWRD3xq9',-0.09999999999999999,0.03333333333333333,negative
+b'RT @JacquesMyard: #Macron n\xe2\x80\x99ayant jamais \xc3\xa9t\xc3\xa9 #maire et n\xe2\x80\x99en connaissant ni les charges ni les d\xc3\xa9fis essaie de pallier ses frustrations et s\xe2\x80\xa6',0.0,0.0,neutral
+"b""@TheShanta_ C'est pas les mecs qui \xc3\xa9taient invit\xc3\xa9s par Macron \xc3\xa0 l'Elys\xc3\xa9e ?? \xf0\x9f\x98\x82 \xf0\x9f\x98\x82 \xf0\x9f\x98\x82""",0.0,0.0,neutral
+b'RT @gilcamcom: 15 h BFMTV a r\xc3\xa9uni un plateau anti Macron d\xc3\xa9lirant + des intervenants ext\xc3\xa9rieurs de la m\xc3\xaame veine.\nUn d\xc3\xa9luge de d\xc3\xa9clarations\xe2\x80\xa6',0.0,0.0,neutral
+b'RT @GilbertCollard: Pour Macron \xc2\xab\xc2\xa0il y a des personnes en situation de pauvret\xc3\xa9 qui d\xc3\xa9connent\xc2\xa0\xc2\xbb.\n\nPour les Fran\xc3\xa7ais il y a des personnes en\xe2\x80\xa6',0.0,0.0,neutral
+b'RT @VenacheJ: Voil\xc3\xa0 comment MACRON ANNONCE LE GRAND D\xc3\x89BAT. AVEC Un Canon \xc3\x80 EAU https://t.co/91uCpBqUPL',0.5,1.0,positive
+"b'RT @hdebonnevolonte: Une personne toujours \xc3\xa0 vif, en \xc3\xa9tat d\xe2\x80\x99excitation permanente, sans cesse dans la provocation, n\xe2\x80\x99aurait jamais d\xc3\xbb acc\xc3\xa9d\xe2\x80\xa6'",0.0,0.0,neutral
+b'RT @__Verlaine__: Dans son air le plus s\xc3\xa9rieux #Macron sort cette phrase \xe2\xa4\xb5\xef\xb8\x8f https://t.co/KeLQKeS2ow',0.0,0.0,neutral
+"b""RT @schtroumpfos: Ne pas rire. Et surtout vous, les Fran\xc3\xa7ais qui n'avez pas le #sensdeleffort  !!!! #Macron #grandebatnational #GrandDebat\xe2\x80\xa6""",0.0,0.0,neutral
+b'Les Gilets Jaunes sont les Gueux de Macron \nhttps://t.co/qCLcvChJyA',0.0,0.0,neutral
+"b""RT @patrick_edery: \xf0\x9f\x86\x98Au secours Macron se remet \xc3\xa0 nous so\xc3\xbbler!\nAvec l'ouverture \xc3\xa0 #Bourgtheroulde du #GrandDebatNational le moulin \xc3\xa0 blabla\xe2\x80\xa6""",0.0,0.0,neutral
+"b'RT @lucchicama: Cours avec les 6e: ""Monsieur, je peux vous raconter une blague? M. et Mme Macron ont 2 fils, comment s\'appellent ils? Ils s\xe2\x80\xa6'",0.0,0.0,neutral
+"b'RT @GTSFarmer: 80,000 FRENCH POLICE DEPLOYED IS AN ARMY.\n\nFRANCE IS IN CIVIL WAR. \n\n#TimesUp for Emmanuel Macron'",0.0,0.0,neutral
+"b'RT @PorteTonAme: \xf0\x9f\x93\xb9\xf0\x9f\x87\xab\xf0\x9f\x87\xb7 #France : Avant de vouloir aller au #Bourgtheroulde , l\xc3\xa0 o\xc3\xb9 #Macron inaugure le #GrandDebatNational .\nIl y a eu des co\xe2\x80\xa6'",0.0,0.0,neutral
+"b'RT @GuiraudInd: Macron en parlant des personnes en situation de pauvret\xc3\xa9 \xc2\xab\xc2\xa0On va les responsabiliser, car il y en a qui font bien et il y e\xe2\x80\xa6'",0.0,0.0,neutral
+"b""RT @PartisanDE: \xe2\x84\xb9The current results of the brutal policies of #Macron's #regime against French people during the #GiletsJaunes protests:\xe2\x80\xa6""",-0.2916666666666667,0.4666666666666666,negative
+b'RT @louisettehubert: #GrandDebatNational \nJe suis afflig\xc3\xa9e et tr\xc3\xa8s v\xc3\xa9n\xc3\xa8re  en \xc3\xa9coutant Macron \xc3\xa0 #Bourgtheroulde\nMacron refait sa campagne a\xe2\x80\xa6',0.0,0.0,neutral
+"b""RT @Zam_Zonite: Vers 15h j'entendais MacRon 1er dire je ne vais pas parler longtemps car je suis l\xc3\xa0 pour vous \xc3\xa9couter ...j'ai donc coup\xc3\xa9 t\xc3\xa9\xe2\x80\xa6""",0.0,0.0,neutral
+b'RT @tropical_boy: #LettreAuxFrancais #Macron #GiletsJaunes #lettremacron #GrandDebatNational\n#LREM #CahiersDeDoleances \n\n\xe2\x84\xb9\xef\xb8\x8f  Des cahiers de\xe2\x80\xa6',0.0,0.0,neutral
+b'RT @shinylucille: Parler vrai c est ce qui manque et a toujours manqu\xc3\xa9 \xc3\xa0 toute cette classe politique. Pas de langue de bois. Nous le savon\xe2\x80\xa6',0.1,0.4,positive
+b'RT @Sondage_Opinion: \xe2\x9a\xa0\xef\xb8\x8f #Sondage #Acte9 #ActeIX #GiletJaune\n\nSouhaitez vous que le mouvement des #GiletsJaunes se poursuive ?\n\n#Macron #Det\xe2\x80\xa6',0.0,0.0,neutral
+"b""RT @RTenfrancais: Du travail en traversant la rue ? #Macron pr\xc3\xa9cise : \xc2\xabL\xc3\xa0 o\xc3\xb9 j'habite, on en trouve !\xc2\xbb (VIDEO)\n\n#GrandDebat #Bourgtheroulde\xe2\x80\xa6""",0.0,0.0,neutral
+"b'R\xc3\xa9forme de l\xe2\x80\x99#ISF : \xc2\xab Si des mesures n\xe2\x80\x99ont pas march\xc3\xa9, elles seront corrig\xc3\xa9es \xc2\xbb assure Emmanuel #Macron\xe2\x80\xa6 https://t.co/CE04PZfFEc'",0.0,0.0,neutral
+"b'Macron persiste et signe : ""Moi o\xc3\xb9 j\'habite, on en trouve du travail"" https://t.co/vQic2yNKqB via @LObs'",0.0,0.0,neutral
+"b""RT @reglyys: Macron sur Benalla : \xc2\xabJe suis fier de l'avoir embauch\xc3\xa9 \xc3\xa0 l'\xc3\x89lys\xc3\xa9e\xc2\xbb https://t.co/Lx9WUQcM0x via @Le_Scan""",0.0,0.0,neutral
+"b'RT @GTSFarmer: 80,000 FRENCH POLICE DEPLOYED IS AN ARMY.\n\nFRANCE IS IN CIVIL WAR. \n\n#TimesUp for Emmanuel Macron'",0.0,0.0,neutral
+"b'RT @OuchikhKarim: ""Les gens en situation de difficult\xc3\xa9, (...) il y en a qui font bien et il y en a qui d\xc3\xa9connent"".\n#Macron tente de siphonn\xe2\x80\xa6'",0.0,0.0,neutral
+"b""RT @lvslmedia: L'art d'\xc3\xa9lever le d\xc3\xa9bat.\nSource : https://t.co/sgBZWLojHT https://t.co/QZBNMLuGa2""",0.0,0.0,neutral
+"b""RT @PartisanDE: \xe2\x84\xb9The current results of the brutal policies of #Macron's #regime against French people during the #GiletsJaunes protests:\xe2\x80\xa6""",-0.2916666666666667,0.4666666666666666,negative
+"b'RT @lighthouse6206: @fine7156 Macron \xc3\xa9tait inform\xc3\xa9, forc\xc3\xa9ment, depuis le d\xc3\xa9but des tirs tendus les CRS. Il lui suffisait de d\xc3\xa9crocher son t\xe2\x80\xa6'",0.0,0.0,neutral
+b'RT @pascale_b_: @JL7508 De plus faut ARRETEZ il ya rien de MAL dans ce que dis le president #MACRON  @apollineWakeUp . Beaucoup le pense. A\xe2\x80\xa6',0.0,0.0,neutral
+"b'RT @Aalvityl: Pr\xc3\xa9sident d\xc3\xa9connect\xc3\xa9, verticalit\xc3\xa9 arrogante, Pr\xc3\xa9sident hors-sol, ne conna\xc3\xaet pas les territoires, gnagnagna. \n#Bourgthroulde m\xe2\x80\xa6'",0.0,0.0,neutral
+"b'RT @PenelopeB: J\xe2\x80\x99apprends \xc3\xa0 la radio (peut-\xc3\xaatre que tout le monde le savait, d\xc3\xa9sol\xc3\xa9e) que Ruffin et Macron \xc3\xa9taient dans le m\xc3\xaame lyc\xc3\xa9e. Comm\xe2\x80\xa6'",0.0,0.0,neutral
+"b""RT @Zam_Zonite: Vers 15h j'entendais MacRon 1er dire je ne vais pas parler longtemps car je suis l\xc3\xa0 pour vous \xc3\xa9couter ...j'ai donc coup\xc3\xa9 t\xc3\xa9\xe2\x80\xa6""",0.0,0.0,neutral
+"b""@lucbronner \nJe viens de vous \xc3\xa9coutez \xc3\xa0 la tv vous n'\xc3\xaates pas honn\xc3\xaate vous ne pouvez pas faire du vrai journalisme\xe2\x80\xa6 https://t.co/JrWD6uJiIx""",0.0,0.0,neutral
+"b""RT @EnModeMacaron: MAIS C\xe2\x80\x99EST PAS POSSIBLE!\n\n\xf0\x9f\x94\xb4MACRON LE FAIT EXPR\xc3\x88S?\n\nSelon BFMTV, Emmanuel Macron s'est exprim\xc3\xa9 \xc3\xa0 la mi-journ\xc3\xa9e en pr\xc3\xa9lude\xe2\x80\xa6""",0.0,1.0,neutral
+"b'RT @Chamade69: Au vu du cot\xc3\xa9 concret / ouvert du #DebatNational face aux Maires, qui peut contester la pertinence, la n\xc3\xa9cessit\xc3\xa9 de cet exer\xe2\x80\xa6'",0.0,0.0,neutral
+"b'RT @felicia_sidx: De fa\xc3\xa7on globale, les Gilets jaunes ne sont pas convaincus par ce lancement du Grand d\xc3\xa9bat national \xc3\xa0 Grand Bourgtherould\xe2\x80\xa6'",0.5,1.0,positive
+"b'RT @JimHemaer: Avant quand le #PR visitait ses provinces, les villes pavoisaient et le peuple s\xe2\x80\x99amassait sur son parcour ..\nAujourd\xe2\x80\x99hui #Ma\xe2\x80\xa6'",0.0,0.0,neutral
+"b'RT @OmeletteDePoulp: 10 MILLIONS\n\n\xc3\x80 la poubelle,\n\nComme \xc3\xa7a,\n\nParce que Macron veut envoyer sa lettre de merde \xc3\xa0 tous les fran\xc3\xa7ais.\n\nOn aura\xe2\x80\xa6'",0.0,0.0,neutral
+"b'Notre jeunesse : Ils suivent les conseils de #Macron 1er, ils se sont lev\xc3\xa9s et ont travers\xc3\xa9\xe2\x80\xa6 la fronti\xc3\xa8re.\nPlus s\xc3\xa9r\xe2\x80\xa6 https://t.co/OwUja7AJRF'",0.0,0.0,neutral
+"b'RT @LalobaRose: La petite phrase de trop du #d\xc3\xa9sax\xc3\xa9 #Macron ""Les gens en difficult\xc3\xa9, il y en a qui font bien et il y en a qui d\xc3\xa9connent"" Ce\xe2\x80\xa6'",0.0,0.0,neutral
+"b""RT @EnModeMacaron: \xf0\x9f\x94\xb4R\xc3\x89V\xc3\x89LATION\n\nLe Canard Encha\xc3\xaen\xc3\xa9 vient de r\xc3\xa9v\xc3\xa9ler qu\xe2\x80\x99Alexandre Benalla a conserv\xc3\xa9 jusqu'\xc3\xa0 la semaine derni\xc3\xa8re un t\xc3\xa9l\xc3\xa9phon\xe2\x80\xa6""",0.0,0.0,neutral
+b'RT @AWAKEALERT: Macron regime now resorting to bullets \n\n#ActeVIII #yellowjacketlady #MacronMustGo #YellowVests #GiletsJaunes \n#yellowRevol\xe2\x80\xa6',0.0,0.0,neutral
+"b'C\'est marrant les titres parce que y a 5 mn sur la m\xc3\xaame s\xc3\xa9quence, le titre que j\'ai lu c\'\xc3\xa9tait plut\xc3\xb4t ""Macron conc\xc3\xa8\xe2\x80\xa6 https://t.co/cgdN6MFoKj'",0.0,0.0,neutral
+b'@FranceIZA @Henri_Scorpion_ @pierre_vbn @BudenFab @ValentiniBack @lemefisto1 @NICOLAS26196459 @GillesBodin2\xe2\x80\xa6 https://t.co/REfeHgdKOw',0.0,0.0,neutral
+b'RT @demontvalon1: #Macron #Bourtheroulde L\xe2\x80\x99\xc3\xa9change entre le pr\xc3\xa9sident et les maires: passionnant. \nCet \xc3\xa9change bouscule une soci\xc3\xa9t\xc3\xa9 bloqu\xc3\xa9e\xe2\x80\xa6',0.0,0.0,neutral
+b'RT @twin_teachers: On dirait l\xe2\x80\x99oncle bourr\xc3\xa9 qui dit que les arabes y\xe2\x80\x99en a des biens mais d\xe2\x80\x99autres non. \nMacron est en train de nous faire l\xe2\x80\xa6',0.0,0.0,neutral
+"b""Si vous voulez VRAIMENT savoir comment Macron a pris le pouvoir avec l'aide de Bernard Arnault et Xavier Niel, c'es\xe2\x80\xa6 https://t.co/FPlppo709u""",0.0,0.0,neutral
+"b'RT @PatrickSimonin: Critiques de l\'opposition contre le grand d\xc3\xa9bat ""Je trouve \xc3\xa7a un peu triste d\'\xc3\xaatre blas\xc3\xa9 en permanence, chacun doit se\xe2\x80\xa6'",0.5,1.0,positive
+"b""RT @alancelin: L'usage de lanceurs anti-\xc3\xa9meutes semi-automatiques contre les yellow vests montre que Macron a perdu tout contr\xc3\xb4le sur le pa\xe2\x80\xa6""",0.0,0.0,neutral
+b'RT @ISLEOFSKY4: Voila voila.. qui confirme mon tweet de fin de soir\xc3\xa9e . #Macron se sert du #GrandDebatNational pour redorer son blason. htt\xe2\x80\xa6',0.0,0.0,neutral
+b'Tu parles beaucoup Macron mais arr\xc3\xaate de parler et \xc3\xa9coute simplement le peuple ! Organise des r\xc3\xa9f\xc3\xa9rendum obligatoir\xe2\x80\xa6 https://t.co/fidDMe9zLD',0.0,0.0,neutral
+b'Macron defiende la supresi\xc3\xb3n del impuesto a los m\xc3\xa1s ricos: Durante el lanzamiento del gran debate con el que preten\xe2\x80\xa6 https://t.co/FmIo6zWUsc',0.0,0.0,neutral
+b'RT @76200NINIE: @LPLdirect @FrancoiseSueur Jamais de fum\xc3\xa9e sans feu....c est une histoire sans fin entre macron et benhalla..',0.0,0.0,neutral
+"b""RT @ChilietCarnets: #Bourgtheroulde rassemblement de gilets jaunes \xc3\xa0 la sortie de la ville avant la venue d'Emmanuel Macron https://t.co/Fd\xe2\x80\xa6""",0.0,0.0,neutral
+b'RT @erik1955viby: VI M\xc3\x85STE STOPPA DET H\xc3\x84R\n\nD\xc3\xa4rf\xc3\xb6r skall vi r\xc3\xb6sta i EU-valet den 26/5. D\xc3\xa5 kan vi p\xc3\xa5verka maktkampen mellan Europas nationali\xe2\x80\xa6',0.0,0.0,neutral
+"b'RT @Fils2Psy: #Bourgtheroulde le Pr\xc3\xa9sident #Macron est un manipulateur de haut niveau ... Concr\xc3\xa8tement il peut nous mentir, nous trahir et\xe2\x80\xa6'",0.0,0.0,neutral
+b'https://t.co/Kn8cTjcD37 https://t.co/kHvTY5obvC',0.0,0.0,neutral
+"b""RT @LeGilets: #Macron, preuve est faite avec l'#ActeIX que les #GiletsJaunes sont pr\xc3\xaats \xc3\xa0 d\xc3\xa9clarer les manifestations et ne recherchent pas\xe2\x80\xa6""",0.0,0.0,neutral
+"b'RT @dupontaignan: #Macron : ""Les gens en situation de difficult\xc3\xa9, (...) il y en a qui font bien et il y en a qui d\xc3\xa9connent"".\nCette d\xc3\xa9clarat\xe2\x80\xa6'",0.0,0.0,neutral
+b'RT @LinePress: #GrandBourgtheroulde le #GrandDebatNational les manifestants de plus en plus nombreux autour de la ville #GiletsJaunes #Gile\xe2\x80\xa6',0.0,0.0,neutral
+"b""RT @ECiotti: Avec l'entr\xc3\xa9e record de 255 000 immigr\xc3\xa9s et une augmentation de 22% de l'asile en 2018, E.#Macron enfonce notre pays dans le c\xe2\x80\xa6""",0.0,0.0,neutral
+b'\xe2\x80\x98Brink of CHAOS!\xe2\x80\x99 Emmanuel Macron accused of \xe2\x80\x98pouring oil on fire\xe2\x80\x99 of Yellow Vest protests https://t.co/pvT6xAD4wV',0.0,0.0,neutral
+"b'RT @InfoMigrants_fr: Instaurer des quotas de demandeurs d\xe2\x80\x99asile ""seraient contraires \xc3\xa0 la fois \xc3\xa0 la Constitution, au droit international et\xe2\x80\xa6'",0.0,0.0,neutral
+b'@martin_u cette adresse ? \xf0\x9f\x98\xac\n\nemmanuelmacron3@gmail.com \n\nhttps://t.co/3eBU72xQA4',0.0,0.0,neutral
+"b'RT @Fils2Psy: #Bourgtheroulde le Pr\xc3\xa9sident #Macron est un manipulateur de haut niveau ... Concr\xc3\xa8tement il peut nous mentir, nous trahir et\xe2\x80\xa6'",0.0,0.0,neutral
+"b'RT @KimJongUnique: Macron ouvre les fronti\xc3\xa8res ext\xc3\xa9rieures aux clandestins, mais se cr\xc3\xa9e des fronti\xc3\xa8res pour se prot\xc3\xa9ger des Fran\xc3\xa7ais. http\xe2\x80\xa6'",0.0,0.0,neutral
+"b'RT @CarolineFiat54: Hors de port\xc3\xa9e des micros, Macron se l\xc3\xa2che pour encore taper sur les personnes en difficult\xc3\xa9. Jamais on n\xe2\x80\x99entend de sa\xe2\x80\xa6'",0.0,0.0,neutral
+"b""RT @Chamade69: J'anticipe la rage des opposants qui voient sur les chaines info un Pr\xc3\xa9sident Macron qui r\xc3\xa9pond \xc3\xa0 toutes les questions des M\xe2\x80\xa6""",0.0,0.0,neutral
+"b""RT @tropical_boy: #GiletsJaunes #Acte10 #Castaner #Macron \n\n\xf0\x9f\x94\xb4 CA, C'EST PAS UNE FAKE NEWS : \n Le gilet jaune bless\xc3\xa9 \xc3\xa0 Bordeaux est dans le\xe2\x80\xa6""",-0.5,1.0,negative
+"b""RT @OliviaMeye2: @tcabarrus @TransfoMacron Emmanuel Macron c'est un pure kiff de Bonheur et le debat est passionant c'est agreeable a regar\xe2\x80\xa6""",0.21428571428571427,0.5,positive
+b'RT @laurentwauquiez: 255 000 nouveaux immigr\xc3\xa9s en 2018. Un record. Emmanuel Macron dit que l\xe2\x80\x99immigration est une chance pour la France. Je\xe2\x80\xa6',0.0,0.0,neutral
+b'RT @Saufalivus: Vous vous demandez o\xc3\xb9 est le pi\xc3\xa8ge ds le #GrandDebatNational ? \nDans les affaires priv\xc3\xa9es de la #Macronie via une boite de\xe2\x80\xa6',0.0,0.0,neutral
+"b""RT @patriamFrancia: Les riens, l\xc3\xa9preux, illettr\xc3\xa9s, alcooliques, qui co\xc3\xbbtent un pognon de dingue devraient retrouver le sens de l'effort plu\xe2\x80\xa6""",0.0,0.0,neutral
+"b""Ce que co\xc3\xbbte Emmanuel Macron en ce moment ,s\xc3\xa9curit\xc3\xa9, d\xc3\xa9placement... C'est un pognon de dingue...!!!\n\n#GiletsJaunes\xe2\x80\xa6 https://t.co/2CF9N2B2ip""",0.0,0.0,neutral
+b'RT @OuchikhKarim: Le nouveau Trait\xc3\xa9 franco-allemand ne doit pas donner \xc3\xa0 #Macron les mains libres pour placer notre diplomatie sous influen\xe2\x80\xa6',0.0,0.0,neutral
+b'@emma_bovy @EmmanuelMacron Il faut vraiment \xc3\xaatre de mauvaise fois pour dire que Barthes consid\xc3\xa8re Macron comme un dictateur !',0.0,0.0,neutral
+"b'RT @Cdanslair: #Macron ""Tout le monde conna\xc3\xaet son probl\xc3\xa8me, il lui manque un chromosome : il n\xe2\x80\x99a jamais \xc3\xa9t\xc3\xa9 candidat aux municipales ou can\xe2\x80\xa6'",0.1,0.4,positive
+"b""RT @patrick_edery: \xf0\x9f\x86\x98Au secours Macron se remet \xc3\xa0 nous so\xc3\xbbler!\nAvec l'ouverture \xc3\xa0 #Bourgtheroulde du #GrandDebatNational le moulin \xc3\xa0 blabla\xe2\x80\xa6""",0.0,0.0,neutral
+"b'RT @Spicy_Word: Reconnaissons que #Jouanno risque cher avec cet aveu, et pour cela, elle a mon respect. #Macron veut tirer seul les ficelle\xe2\x80\xa6'",0.0,0.0,neutral
+b'Macron il a bien niqu\xc3\xa9 vos maires.\n#Bourgtheroulde #Maires',0.0,0.0,neutral
+"b'#Pascalpraud Y-a sur le mec du ps qui parle, il dit des conneries et il coupe tout le monde.\nMacron le d\xc3\xa9rapage \xc3\xa7a\xe2\x80\xa6 https://t.co/18jLCFaFPQ'",0.0,0.0,neutral
+"b'RT @flydeck60: @francoisedegois #Macron ... ""Chassez le naturel, il revient au galop"" ... \xf0\x9f\x99\x84 https://t.co/NezG3bmVPS'",0.0,0.0,neutral
+"b'Apr\xc3\xa8s le ""traverser la rue"", voici:\n\xc2\xab Les gens en situation de difficult\xc3\xa9, on va davantage les responsabiliser car\xe2\x80\xa6 https://t.co/G21zHqk9We'",0.0,0.0,neutral
+"b'RT @edwyplenel: Le pr\xc3\xa9sident qui ne sait pas  \xc2\xabresponsabiliser\xc2\xbb Benalla (violences volontaires, passeport diplo), les \xc3\xa9vad\xc3\xa9s fiscaux (selon\xe2\x80\xa6'",0.0,0.0,neutral
+"b'RT @armani_salado: Another elderly woman was deliberately hit in the face by police with a flash ball-Remember, mainstream media is complet\xe2\x80\xa6'",0.0,0.0,neutral
+"b""@le_Parisien T'as raison, Pr\xc3\xa9sident. Et qui paie les services publics ? En v\xc3\xa9rit\xc3\xa9, M. Macron d\xc3\xa9fend la libert\xc3\xa9 des\xe2\x80\xa6 https://t.co/7xwHf4pZoV""",0.0,0.0,neutral
+"b'RT @BFMTV: Emmanuel Macron: ""Il ne faut pas raconter des cracks, ce n\'est pas parce qu\'on remettra l\'ISF que la situation d\'un seul gilet j\xe2\x80\xa6'",0.0,0.0,neutral
+"b'RT @lobs: Macron persiste et signe : ""Moi o\xc3\xb9 j\'habite, on en trouve du travail"" https://t.co/jgYf8aihJz https://t.co/4cmEVeBMZW'",0.0,0.0,neutral
+"b""RT @EnModeMacaron: \xf0\x9f\x94\xb4R\xc3\x89V\xc3\x89LATION\n\nLe Canard Encha\xc3\xaen\xc3\xa9 vient de r\xc3\xa9v\xc3\xa9ler qu\xe2\x80\x99Alexandre Benalla a conserv\xc3\xa9 jusqu'\xc3\xa0 la semaine derni\xc3\xa8re un t\xc3\xa9l\xc3\xa9phon\xe2\x80\xa6""",0.0,0.0,neutral
+"b""RT @EnModeMacaron: \xf0\x9f\x94\xb4R\xc3\x89V\xc3\x89LATION\n\nLe Canard Encha\xc3\xaen\xc3\xa9 vient de r\xc3\xa9v\xc3\xa9ler qu\xe2\x80\x99Alexandre Benalla a conserv\xc3\xa9 jusqu'\xc3\xa0 la semaine derni\xc3\xa8re un t\xc3\xa9l\xc3\xa9phon\xe2\x80\xa6""",0.0,0.0,neutral
+"b'RT @Insoumise007: Macron ne tient plus que par la police. Si la police le l\xc3\xa2che, il est fini. Il faut rappeler aux flics que quand ils d\xc3\xa9fe\xe2\x80\xa6'",0.0,0.0,neutral
+"b""RT @reglyys: Macron sur Benalla : \xc2\xabJe suis fier de l'avoir embauch\xc3\xa9 \xc3\xa0 l'\xc3\x89lys\xc3\xa9e\xc2\xbb https://t.co/Lx9WUQcM0x via @Le_Scan""",0.0,0.0,neutral
+"b'RT @CNEWS: Emmanuel Macron : \xc2\xabLes personnes en situation de pauvret\xc3\xa9, on va davantage les responsabiliser car il y en a qui font bien et il\xe2\x80\xa6'",0.0,0.0,neutral
+"b""@Patedam @jnthnbaum Parce que Macron n'a pas tendu la main""",0.16666666666666666,0.3333333333333333,positive
+ , , , 
+ POPULARITY = ,0.013976190476190475, , 
