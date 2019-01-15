@@ -121,5 +121,4 @@ with open('tweet_sentiment.csv', mode='w') as csv_file:
     plt.axis('equal')
     plt.title('Popularity of Macron over 100 tweets')
     plt.show()
-    plt.savefig('Result.png')
 
