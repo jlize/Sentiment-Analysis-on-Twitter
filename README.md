@@ -16,7 +16,9 @@ Install missing dependencies using pip
 
 ## Usage
 
-Once you have your dependencies installed via pip, run the script in terminal via
+Create a Twitter API. 
+Install your dependencies installed via pip.
+Once you changed the authentication variables to connect to your Twitter API in the code file( Consumer Key, Consumer Secret, Access Token, Access Token Secret), run the script in terminal via
 
 ```python 
 python twitter_sentiment.py
