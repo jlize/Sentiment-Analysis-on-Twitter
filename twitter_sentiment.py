@@ -22,11 +22,11 @@ import matplotlib.pyplot as plt
 # create 4 variables to authenticate to Twitter
 # copy the value from the part "Keys and token" from the app
 
-consumer_key = '0OGhjX0XySXnMh8T6YJTpj832'
-consumer_secret = 'IMJri1jwVTPih13OcanSSUZ37BX6R0KR7cYvhef9P9f5fuwEGM'
+consumer_key = 'CONSUMER_KEY'
+consumer_secret = 'CONSUMER_SECRET'
 
-access_token = '1187586672-f8rta6yTNm1QUh4ckPt8RTlt0QzmdJLX2bgJuwf'
-access_token_secret = '7uYIVhsmHTsemWEO5wrjlyTYm5BUQvAs4HJHKVNUAmtJw'
+access_token = 'ACCESS_TOKEN'
+access_token_secret = 'ACCESS_TOKEN_SECRET'
 
 
 # STEP 2 - LOGIN
