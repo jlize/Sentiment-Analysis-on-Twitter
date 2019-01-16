@@ -62,9 +62,12 @@ nb_neutral = 0
 nb_pos = 0
 nb_neg = 0
 
-# STEP 4 - CREATE A CSV FILE AND ANALYSE THE TWEET
 
+# STEP 4 - ANALYSE THE TWEETS AND LABELED THEM IN A FILE
+
+# create the csv file
 with open('tweet_sentiment.csv', mode='w') as csv_file:
+    # create the headers
     fieldnames = ['tweet', 'sentiment polarity', 'sentiment subjectivity', 'analysis']
     writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
 
@@ -74,19 +77,20 @@ with open('tweet_sentiment.csv', mode='w') as csv_file:
     for tweet in public_tweets:
         print(tweet.text.encode("utf-8"))  # print each tweet in string version
         # calculate sentiment of the tweet (-1 < sentiment < 1)
-        analysis = TextBlob(tweet.text)  # store sentiment analysis
-        print(analysis.sentiment)  # print the analysis attribute
 
-        # calculate if it's positive or negative
+        analysis = TextBlob(tweet.text)     # store sentiment analysis
+        print(analysis.sentiment)           # print the analysis attribute
+
+        # calculate if it's neutral, positive or negative
         if analysis.polarity < 0:
             analysis_word = 'negative'
             nb_neg = nb_neg+1
         elif analysis.polarity == 0:
             analysis_word = 'neutral'
-            nb_neutral = nb_neutral +1
+            nb_neutral = nb_neutral + 1
         else:
             analysis_word = 'positive'
-            nb_pos = nb_pos +1
+            nb_pos = nb_pos + 1
 
         # store the polarity in the array
         array_polarity[0][i] = analysis.polarity
